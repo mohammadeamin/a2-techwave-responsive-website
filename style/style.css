@@ -1,0 +1,20 @@
+/* shared styles */
+
+/* header styles */
+
+
+/* navbar styles */
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar ul{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    gap: 32px;
+}
+
+/* main styles */
+
+/* footer styles */
